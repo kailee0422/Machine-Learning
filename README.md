@@ -1,2 +1,2 @@
 # Machine-Learning Class
-NYCU AIIT HW(foe saved)
+NYCU AIIT HW(for saved)
